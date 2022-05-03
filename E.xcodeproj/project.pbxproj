@@ -24,6 +24,8 @@
 		EA6AACB3281ABC43007813F1 /* Floor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6AACB1281ABC43007813F1 /* Floor.swift */; };
 		EA6C937A2816D6F200F44386 /* primos.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6C93792816D6F200F44386 /* primos.swift */; };
 		EA6C937B2816D6F200F44386 /* primos.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6C93792816D6F200F44386 /* primos.swift */; };
+		EA6CD69A2821E5FE006736C9 /* prioridad.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6CD6992821E5FE006736C9 /* prioridad.swift */; };
+		EA6CD69B2821E5FE006736C9 /* prioridad.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6CD6992821E5FE006736C9 /* prioridad.swift */; };
 		EA6F98F62818AB4000520F3E /* porcentaje.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6F98F52818AB4000520F3E /* porcentaje.swift */; };
 		EA6F98F72818AB4000520F3E /* porcentaje.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA6F98F52818AB4000520F3E /* porcentaje.swift */; };
 		EA768080281CB06C00BE3ADC /* mesDias.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA76807F281CB06C00BE3ADC /* mesDias.swift */; };
@@ -76,6 +78,7 @@
 		EA6AACAE281A4BB9007813F1 /* Ceiling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ceiling.swift; sourceTree = "<group>"; };
 		EA6AACB1281ABC43007813F1 /* Floor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Floor.swift; sourceTree = "<group>"; };
 		EA6C93792816D6F200F44386 /* primos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = primos.swift; sourceTree = "<group>"; };
+		EA6CD6992821E5FE006736C9 /* prioridad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prioridad.swift; sourceTree = "<group>"; };
 		EA6F98F52818AB4000520F3E /* porcentaje.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = porcentaje.swift; sourceTree = "<group>"; };
 		EA76807F281CB06C00BE3ADC /* mesDias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mesDias.swift; sourceTree = "<group>"; };
 		EA768082281CE9D800BE3ADC /* calculadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculadora.swift; sourceTree = "<group>"; };
@@ -136,6 +139,7 @@
 			children = (
 				EA1F6CA4280E0A9A0057C8A0 /* EApp.swift */,
 				EAE6B44E2812E00900B334A9 /* numerosV.swift */,
+				EA6CD6992821E5FE006736C9 /* prioridad.swift */,
 				EA6C93792816D6F200F44386 /* primos.swift */,
 				EA1F6CA5280E0A9A0057C8A0 /* ContentView.swift */,
 				EA768082281CE9D800BE3ADC /* calculadora.swift */,
@@ -356,6 +360,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA1F6CCE280E0AA40057C8A0 /* ContentView.swift in Sources */,
+				EA6CD69A2821E5FE006736C9 /* prioridad.swift in Sources */,
 				EA6AACB2281ABC43007813F1 /* Floor.swift in Sources */,
 				EAE6B44F2812E00900B334A9 /* numerosV.swift in Sources */,
 				EA1F6CCC280E0AA40057C8A0 /* EApp.swift in Sources */,
@@ -377,6 +382,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA67716F28135E7C00FFC9BF /* numerosV.swift in Sources */,
+				EA6CD69B2821E5FE006736C9 /* prioridad.swift in Sources */,
 				EA6AACB3281ABC43007813F1 /* Floor.swift in Sources */,
 				EA6C937B2816D6F200F44386 /* primos.swift in Sources */,
 				EA1F6CCF280E0AA40057C8A0 /* ContentView.swift in Sources */,
